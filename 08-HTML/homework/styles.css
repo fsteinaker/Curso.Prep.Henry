@@ -1,0 +1,33 @@
+body {
+	background-image: url(https://zaffery-szalezi.hu/wp-content/uploads/2015/09/4726201-beige-restaurant-background.jpg);
+}
+
+h1 {
+	color: darkred;
+}
+
+img {
+	width: 400px;
+}
+
+div {
+	text-align: center;
+}
+
+#thirdDiv {
+	height: 700px;
+	width: 500px;
+	background-color: lightyellow;
+	padding: 50px;
+	border-color: goldenrod;
+	border-style: dotted;
+	border-width: 4px;
+	margin-left: auto;
+  	margin-right: auto;
+
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
