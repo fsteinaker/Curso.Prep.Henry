@@ -1,0 +1,168 @@
+body {
+	background-color: rgba(173, 237, 254, 0.5);
+	background-image: url(img/resume.png);
+}
+
+.cuerpo_cv{
+	margin-top: 30px;
+	margin-bottom: 30px;
+  	font-family: sans-serif;
+  	height: 2175px;
+  	width: 800px;
+  	border-style: double;
+  	border-width: 15px;
+  	border-color: lightskyblue;
+  	float: center;
+  	margin-left: auto;
+  	margin-right: auto;
+  	background-color: rgba(255, 255, 255, 0.99);
+}
+
+#foto_perfil {
+	float: left;
+	margin-left: 60px;
+	margin-top: 40px;
+	margin-right: 50px;
+}
+
+#nombre {
+	float: left;
+	font-size: 	28pt;
+	font-weight: 600;
+	margin-top: 55px;
+}
+
+#apellido {
+	font-size: 	28pt;
+	font-weight: bolder;
+	margin-top: 55px;
+	color: dodgerblue;
+}
+
+#direccion {
+	margin-top: 15px;
+	height: 70px;
+	width: 	750px;
+	line-height: 20pt;
+}
+
+#mail {
+	text-decoration: none;
+	color: dodgerblue;
+	font-weight: bold;
+}
+
+#perfil {
+	text-align: right;
+	margin-top: 70px;
+	margin-left: 60px;
+	width: 150px;
+	font-size: 18pt;
+	font-weight: lighter;
+	font-style: italic;
+	color: dodgerblue;
+	height: 250px;
+}
+
+#perfil_txt {
+	float: right;
+	text-align: left;
+	width: 500px;	
+	font-size: 12pt;
+	line-height: 16pt;
+	margin-top: -260px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+#educacion {
+	text-align: right;
+	margin-left: 60px;
+	width: 150px;
+	font-size: 18pt;
+	font-weight: lighter;
+	font-style: italic;
+	color: dodgerblue;
+	height: 535px;
+}
+
+#educacion_txt {
+	float: right;
+	text-align: left;
+	width: 500px;	
+	font-size: 12pt;
+	line-height: 16pt;
+	margin-top: -547px;
+	margin-right: 50px;
+}
+
+#laboral {
+	text-align: right;
+	margin-left: 60px;
+	width: 150px;
+	font-size: 18pt;
+	font-weight: lighter;
+	font-style: italic;
+	color: dodgerblue;
+	line-height: 24pt;
+	height: 620px;
+}
+
+#laboral_txt {
+	float: right;
+	text-align: left;
+	margin-top: -631px;
+	width: 500px;	
+	font-size: 12pt;
+	line-height: 16pt;
+	margin-right: 50px;
+}
+
+#habilidades {
+	text-align: right;
+	margin-left: 60px;
+	width: 150px;
+	font-size: 18pt;
+	font-weight: lighter;
+	font-style: italic;
+	color: dodgerblue;
+	line-height: 24pt;
+	height: 275px;
+}
+
+#habilidades_lista {
+	float: right;
+	text-align: left;
+	width: 500px;	
+	font-size: 12pt;
+	line-height: 16pt;
+	margin-right: 50px;
+	margin-top: -291px;
+	font-size: 14pt;
+	line-height: 26pt;
+	font-style: italic;
+}
+
+#hobbies {
+	text-align: right;
+	margin-left: 60px;
+	width: 150px;
+	font-size: 18pt;
+	font-weight: lighter;
+	font-style: italic;
+	color: dodgerblue;
+	line-height: 24pt;	
+}
+
+#hobbies_lista {
+	float: right;
+	text-align: left;
+	width: 500px;	
+	font-size: 12pt;
+	line-height: 16pt;
+	margin-right: 50px;
+	margin-top: -50px;
+	font-size: 14pt;
+	line-height: 26pt;
+	font-style: italic;
+}
